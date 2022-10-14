@@ -7,6 +7,7 @@ window.addEventListener("scroll", () => {
 
     indicatorBar.style.width = scrollValue + "%";
   });
+  
 
   //Responsive navigation menu toggle
   const menuBtn = document.querySelector(".nav-menu-btn");
